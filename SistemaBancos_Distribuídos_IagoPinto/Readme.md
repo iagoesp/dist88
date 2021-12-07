@@ -44,7 +44,10 @@ from threading import Thread
 [Vídeo](https://youtu.be/4fHmGWs34fA)
 
 ## Exemplo de Uso - Imagens
-
+ O executável encontra-se no repositório do Drive, pois execedeu o tamanho limite que o GitHub oferece.
+ 
+ https://drive.google.com/drive/folders/1RzVxpLVHXKvbypghMwQe6spke6gYBz9H?usp=sharing
+ 
 ### Passo 1 - Executando 
 
 1. Inicialmente, roda o arquivo do servidor:
