@@ -50,7 +50,7 @@ from threading import Thread
  
  O exemplo de uso com as imagens encontra-se no pdf.
  
- [PDF](https://github.com/iagoesp/dist88/blob/main/DOCUMENTAC%CC%A7A%CC%83O%20DA%20APLICAC%CC%A7A%CC%83O_%20%E2%80%9CSISTEMA%20DE%20BANCOS%E2%80%9D.pdf)
+ [PDF](https://github.com/iagoesp/dist88/blob/main/DOCUMENTAC%CC%A7A%CC%83O%20DA%20APLICAC%CC%A7A%CC%83O_%20%E2%80%9CSISTEMA%20DE%20BANCOS%E2%80%9D.pdf) - https://github.com/iagoesp/dist88/blob/main/DOCUMENTAC%CC%A7A%CC%83O%20DA%20APLICAC%CC%A7A%CC%83O_%20%E2%80%9CSISTEMA%20DE%20BANCOS%E2%80%9D.pdf
 ### Passo 1 - Executando 
 
 1. Inicialmente, roda o arquivo do servidor:
