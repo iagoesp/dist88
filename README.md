@@ -25,9 +25,9 @@ python3 -m pip install PyQt5
 
 O código dos trabalhos estão comentados e disponíveis nos links abaixo.
 
-[Arquivo do Cliente]() - link para o arquivo no github
+[Arquivo do Cliente](https://github.com/iagoesp/dist88/blob/main/SistemaBancos_Distribui%CC%81dos_IagoPinto/cliente.py) - link para o arquivo no github
 
-[Arquivo do Servidor]() - link para o arquivo no github
+[Arquivo do Servidor](https://github.com/iagoesp/dist88/blob/main/SistemaBancos_Distribui%CC%81dos_IagoPinto/servidor.py) - link para o arquivo no github
 
 ```python
 # Para o layout, do lado do cliente
