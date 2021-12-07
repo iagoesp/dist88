@@ -43,11 +43,14 @@ from threading import Thread
 
 [Vídeo](https://youtu.be/4fHmGWs34fA)
 
-## Exemplo de Uso - Imagens
- O executável encontra-se no repositório do Drive, pois execedeu o tamanho limite que o GitHub oferece.
+## Exemplo de Uso
+ O executável encontra-se no repositório do Drive, pois excedeu o tamanho limite que o GitHub oferece.
  
- https://drive.google.com/drive/folders/1RzVxpLVHXKvbypghMwQe6spke6gYBz9H?usp=sharing
+ [Repositório](https://drive.google.com/drive/folders/1RzVxpLVHXKvbypghMwQe6spke6gYBz9H?usp=sharing): https://drive.google.com/drive/folders/1RzVxpLVHXKvbypghMwQe6spke6gYBz9H?usp=sharing
  
+ O exemplo de uso com as imagens encontra-se no pdf.
+ 
+ [PDF](https://github.com/iagoesp/dist88/blob/main/DOCUMENTAC%CC%A7A%CC%83O%20DA%20APLICAC%CC%A7A%CC%83O_%20%E2%80%9CSISTEMA%20DE%20BANCOS%E2%80%9D.pdf)
 ### Passo 1 - Executando 
 
 1. Inicialmente, roda o arquivo do servidor:
